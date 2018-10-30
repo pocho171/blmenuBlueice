@@ -1,0 +1,7 @@
+#menuBlueice a, #menuBlueice a:visited, #menuBlueice a:hover{text-decoration:none;color:#ffffff;}
+#menuBlueice ul {background:#DDDDDD;list-style:none outside none;}
+#menuBlueice li {height:31px;font-family:Arial,helvetica,sans-serif;
+font-size:13px;background:url("http://1.bp.blogspot.com/_Bvhqq3YFEx4/TPDcYFVynnI/AAAAAAAAAeM/ESlN88fvuWc/s320/blblackiceblcn.png") repeat-x scroll 0 0 transparent;border-left:1px solid #333333;border-right:1px solid #333333;float:left;line-height:31px;margin-right:-1px;padding-left:10px;padding-right:10px;}
+#menuBlueice li:hover {background-position:0 -64px;border-bottom:1px solid #333333;line-height:30px;height:30px;}
+#blcbuscc1 {border:1px solid #333333;margin-top:5px;padding:1px;width:150px;}
+#blcbuscc2 {background:#F4F4F4;border:1px solid #333333;color:#000000;margin:0 0 0 4px;padding:0 4px 0;}
